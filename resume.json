@@ -36,14 +36,14 @@
       "endDate": "",
       "summary": "TDD & BDD 기반으로 개발",
       "highlights": [
-        "<b>MS Appstore-v2</b> Node.js 를 사용해서 DAEMON 을 개발했다.(정산) React, Redux, Redux-Pender, Jest, Enzyme 을 이용해 TDD 를 적용했고, Material-UI 를 사용했다.(정산 내역)",
-        "<b>MS Cash-v1</b> Node.js 를 사용해서 DAEMON 과 REST API 를 개발했다.(그룹메시지 발송, 심플메시지 발송, 일일 정산 업데이트) Cash MS 프로젝트를 진행하면서 처음으로 React 와 Redux 를 사용해서 페이지를 제작해 보았다.(사업자 목록 관리자 페이지, FilteredList, Filter)",
+        "<b>MS Appstore-v2</b> Node.js 를 사용해서 DAEMON 을 개발했다. React, Redux, Redux-Pender, Jest, Enzyme 을 이용해 TDD 를 적용했고, Material-UI 를 사용했다.",
+        "<b>MS Cash-v1</b> Node.js 를 사용해서 DAEMON 과 REST API 를 개발했다. Cash MS 프로젝트를 진행하면서 처음으로 React 와 Redux 를 사용해서 페이지를 제작해 보았다.",
         "<b>MS Images-v4</b> Node.js 를 사용해서 S3 에 업로드, 조회, 삭제를 하는 REST API 를 제작했다.",
         "<b>SDK</b> 사용자(고객)들이 편하게 REST API 를 사용할 수 있도록 SDK 를 제작했다.",
         "<b>LoadTest</b> 내부에서 사용하는 Loadtest Client 를 제작했다. 기존에 제공되는 loadtest 를 수정해서 내부에서 loadtest 를 할 수 있도록 했다. 로드테스트는 Jenkins 를 통해 진행되고 있다.",
         "<b>RabbitMQ</b> 내부에서 사용하는 RabbitMQ Helper 를 제작했다. Auto recovery, Auto reconnect 와 같은 실서비스에 중요한 기능들을 제작했고, 문제가 생기지 않도록 많은 테스트를 진행했고 또한 기존에 제공하는 기능들을 이용해서 더 많은 데이터를 보낼 수 있도록 변경했다.",
         "<b>MongoDB</b> 내부에서 사용하는 Mongodb Connection Helper 를 제작했다. 'mongoose'를 사용했고 기본적인 옵션들만 제공했다.",
-        "<b>MS Messages-v4</b> Node.js 를 사용해서 DAEMON 과 REST API 를 제작했다. 많은 트래픽이 예상되어서 최적화에 많은 노력을 했고, DB 최적화도 노력했다.",
+        "<b>MS Messages-v4</b> Node.js 를 사용해서 DAEMON 과 REST API 를 제작했다. 많은 트래픽이 예상되어서 최적화에 많은 노력을 했고, DB 최적화도 노력했다. 또한 통계 데이터를 효율적으로 Mongodb Aggregation 을 사용해서 그룹화하고 수정했다.",
         "<b>MS OAuth2</b> Node.js 를 사용해서 OAuth2 프로토콜을 사용한 인증 서비스를 개발했다. (Oauth2orize, passport, RFC 문서 참고)"
       ],
       "keywords": [
@@ -81,8 +81,8 @@
   ],
   "대회": [
     {
-      "title": "[본선] 제 3회 국민대학교 알고리즘 대회 (08.10)",
-      "awarder": "경희대학교",
+      "title": "[장려상] 제 3회 국민대학교 알고리즘 대회 (08.10)",
+      "awarder": "국민대학교",
       "date": "2018",
       "summary": "JAVA"
     },
