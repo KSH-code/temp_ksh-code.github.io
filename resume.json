@@ -74,9 +74,15 @@
   "education": [
     {
       "institution": "Highschool",
-      "area": "Smart Contents",
-      "startDate": "2015-09",
-      "endDate": "2018-02"
+      "area": "GyeongSeong",
+      "startDate": "2015-03-02",
+      "endDate": "2015-08-15"
+    },
+    {
+      "institution": "Highschool",
+      "area": "Semyeong Computer(Smart Contents)",
+      "startDate": "2015-08-16",
+      "endDate": "2018-02-07"
     }
   ],
   "대회": [
@@ -233,16 +239,9 @@
   ],
   "experiences": [
     {
-      "name": "참가 코딩 테스트",
-      "keywords": [
-        "[통과] Midas Challenge 2018 (05.12) https://github.com/KSH-code/TIL/tree/master/algorithm/challenge/midas/2018",
-        "[통과] 카카오 신입 공채 2017 (09.16) https://github.com/KSH-code/TIL/tree/master/algorithm/challenge/kakao/2017"
-      ]
-    },
-    {
       "name": "스터디 그룹",
       "keywords": [
-        "1DP[Algorithms](2017-11-20 ~ 2018-01)",
+        "1DP[Algorithms](2017-11-20 ~ 2018-01-??)",
         "Algorithms(2017-09-02 ~ 2017-11-27)"
       ]
     },
