@@ -74,15 +74,15 @@
   "education": [
     {
       "institution": "Highschool",
-      "area": "GyeongSeong",
-      "startDate": "2015-03-02",
-      "endDate": "2015-08-15"
+      "area": "Semyeong Computer(Smart Contents)",
+      "startDate": "2015-09-22",
+      "endDate": "2018-02-07"
     },
     {
       "institution": "Highschool",
-      "area": "Semyeong Computer(Smart Contents)",
-      "startDate": "2015-08-16",
-      "endDate": "2018-02-07"
+      "area": "GyeongSeong",
+      "startDate": "2015-03-02",
+      "endDate": "2015-09-21"
     }
   ],
   "대회": [
