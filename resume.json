@@ -36,6 +36,7 @@
       "endDate": "",
       "summary": "TDD & BDD 기반으로 개발",
       "highlights": [
+        "<b>MS Credentials-v2</b> Node.js 와 Mongodb 를 사용해서 기존 데이터 형식과 동일하게 모든 코드를 작성하고 데이터를 마이그레이션 하는 작업을 진행했다.",
         "<b>MS Appstore-v2</b> Node.js 를 사용해서 DAEMON 을 개발했다. React, Redux, Redux-Pender, Jest, Enzyme 을 이용해 TDD 를 적용했고, Material-UI 를 사용했다.",
         "<b>MS Cash-v1</b> Node.js 를 사용해서 DAEMON 과 REST API 를 개발했다. Cash MS 프로젝트를 진행하면서 처음으로 React 와 Redux 를 사용해서 페이지를 제작해 보았다.",
         "<b>MS Images-v4</b> Node.js 를 사용해서 S3 에 업로드, 조회, 삭제를 하는 REST API 를 제작했다.",
