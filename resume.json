@@ -215,22 +215,23 @@
       "name": "Opensource projects",
       "startDate": "2017-10",
       "endDate": "",
-      "summary": "오픈 소스 프로젝트들에 기여를 했습니다. <a href=\"https://github.com/KSH-code/TIL/tree/master/opensource\">링크</a>",
+      "summary": "오픈 소스 프로젝트들에 기여 <a href=\"https://github.com/KSH-code/TIL/tree/master/opensource\">링크</a>",
       "keywords": [
+        "Algorithm",
         "JAVA",
         "Node.js"
       ]
     },
     {
-      "name": "Foodle",
-      "startDate": "2018-01",
-      "endDate": "2018-02",
-      "summary": "지인의 프로젝트 참여",
+      "name": "Rocket Seoul",
+      "startDate": "2018-09-17",
+      "endDate": "",
+      "summary": "서울시 앱 공모전의 서버 개발 <a href=\"https://github.com/KSH-code/TIL/blob/master/%ED%9A%8C%EA%B3%A0/seoul-app-competition/README.md\">링크</a>",
       "keywords": [
-        "AWS",
-        "Travis-CI",
+        "AWS EC2",
+        "Mongodb",
         "Node.js",
-        "Mysql"
+        "Travis-CI"
       ]
     },
     {
