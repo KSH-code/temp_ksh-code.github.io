@@ -212,6 +212,16 @@
   ],
   "projects": [
     {
+      "name": "Opensource projects",
+      "startDate": "2017-10",
+      "endDate": "",
+      "summary": "오픈 소스 프로젝트들에 기여를 했습니다. <a href=\"https://github.com/KSH-code/TIL/tree/master/opensource\">링크</a>",
+      "keywords": [
+        "JAVA",
+        "Node.js"
+      ]
+    },
+    {
       "name": "Foodle",
       "startDate": "2018-01",
       "endDate": "2018-02",
