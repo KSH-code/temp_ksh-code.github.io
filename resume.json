@@ -247,6 +247,16 @@
         "Javascript",
         "EJS"
       ]
+    },
+    {
+      "name": "Moving stickers",
+      "startDate": "2017-01-01",
+      "endDate": "2017-02-01",
+      "summary": "약 한 달의 겨울방학 동안의 Netdiver 라는 기업에서 인턴을 하며, 디자인을 제외하고 혼자 유아용 게임 제작 <a href=\"https://itunes.apple.com/kr/app/%ED%82%A4%EC%A6%88%EC%96%8C-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%8A%A4%ED%8B%B0%EC%BB%A4/id1198827605?mt=8\">링크</a>",
+      "keywords": [
+        "Unity",
+        "C#"
+      ]
     }
   ],
   "experiences": [
