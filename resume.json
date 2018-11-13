@@ -29,11 +29,20 @@
   },
   "work": [
     {
+      "company": "CREMA",
+      "position": "리뷰팀 개발자",
+      "website": "https://www.crema.me/",
+      "startDate": "2018-11-12",
+      "endDate": "",
+      "summary": "",
+      "keywords": []
+    },
+    {
       "company": "Nurigo",
       "position": "개발자",
-      "website": "http://nurigo.net",
+      "website": "http://www.nurigo.net/",
       "startDate": "2017-12-18",
-      "endDate": "",
+      "endDate": "2018-10-26",
       "summary": "TDD & BDD 기반으로 개발",
       "highlights": [
         "<b>MS Scheduler-v1</b> Node.js 와 Mongodb 를 사용해서 Cron 과 같은 작업을 하는 REST API Server 와 크론의 기능을 하는 데몬 프로그램을 제작했다.",
